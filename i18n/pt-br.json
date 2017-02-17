@@ -86,23 +86,23 @@
     "wrong_folder": "Uh oh!\nIt looks like you are in the wrong folder.\nPlease cd into {{cwd}}\nand then try again'"
   },
   "exercise": {
-    "00 Install npm": "00 Install npm",
-    "01 Dev Environment": "01 Dev Environment",
-    "02 Login": "02 Login",
-    "03 Start A Project": "03 Start A Project",
-    "04 Install A Module": "04 Install A Module",
-    "05 Listing Dependencies": "05 Listing Dependencies",
+    "00 Install npm": "00 INSTALANDO NPM",
+    "01 Dev Environment": "01 AMBIENTE DE DESENVOLVIMENTO",
+    "02 Login": "02 LOGIN",
+    "03 Start A Project": "03 INICIANDO UM PROJETO",
+    "04 Install A Module": "04 INSTALANDO UMA DEPENDÊNCIA",
+    "05 Listing Dependencies": "05 LISTANDO DEPENDÊNCIAS",
     "06 npm Test": "06 npm Test",
     "07 Package Niceties": "07 Package Niceties",
-    "08 Publish": "08 Publish",
-    "09 Version": "09 Version",
-    "10 Publish Again": "10 Publish Again",
-    "11 Dist Tag": "11 Dist Tag",
-    "12 Dist Tag Removal": "12 Dist Tag Removal",
-    "13 Outdated": "13 Outdated",
-    "14 Update": "14 Update",
-    "15 Rm": "15 Rm",
-    "16 Finale": "16 Finale"
+    "08 Publish": "08 PUBLICANDO PACOTE",
+    "09 Version": "09 VERSÃO",
+    "10 Publish Again": "10 PUBLICANDO NOVAMENTE",
+    "11 Dist Tag": "11 CRIANDO TAG DE DISTRIBUIÇÃO",
+    "12 Dist Tag Removal": "12 REMOVENDO TAG DE DISTRIBUIÇÃO",
+    "13 Outdated": "13 PACOTES DESATUALIZADOS",
+    "14 Update": "14 ATUALIZAR PACOTES",
+    "15 Rm": "15 REMOVER",
+    "16 Finale": "16 FIM"
   },
   "menu": {
     "reset-registry": "RESET REGISTRY"
