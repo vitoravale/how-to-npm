@@ -105,7 +105,7 @@
     "16 Finale": "16 FIM"
   },
   "menu": {
-    "reset-registry": "RESET REGISTRY"
+    "reset-registry": "REMOVER REGISTRO"
   },
-  "reset": "Successfully reset registry"
+  "reset": "Registro removido com sucesso"
 }
